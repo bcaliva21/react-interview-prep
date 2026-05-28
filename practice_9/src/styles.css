@@ -1,0 +1,18 @@
+.tasks-display {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.strikethrough {
+	display: flex;
+	flex-direction: row;
+	gap: 5px;
+	text-decoration: line-through;
+}
+
+.task {
+	display: flex;
+	flex-direction: row;
+	gap: 5px;
+}
